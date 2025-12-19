@@ -1,3 +1,7 @@
+The 5 Cs of Credit—Character, Capacity, Capital, Collateral, and Conditions—represent the fundamental data architecture required for robust credit risk assessment and modern predictive modeling. In the realm of Machine Learning (ML), these pillars serve as the primary framework for feature engineering; they allow algorithms to move beyond linear scoring by identifying complex, non-linear correlations between a borrower’s historical reliability (Character) and their real-time financial agility (Capacity). When integrated into ML analytics, the 5 Cs enable the calculation of critical metrics like Probability of Default (PD) and Loss Given Default (LGD) with high precision, using alternative data to fill traditional gaps. Furthermore, these categories are essential for data visualization, where they are transformed into risk heatmaps, radar charts, and stress-test dashboards. This visual synthesis allows lenders to identify portfolio vulnerabilities at a glance, ensuring that predictive insights are not just statistically significant, but also intuitively actionable for strategic decision-making and regulatory compliance.
+
+Data Set Downloaded from the following Link : https://www.opendatabay.com/data/financial/c62c0254-30f2-4b29-bae6-24548f112d23
+
 High Level Data Description : 
 This dataset is a synthetic loan portfolio focused on modeling the likelihood of loan default at the individual borrower level.​
 
